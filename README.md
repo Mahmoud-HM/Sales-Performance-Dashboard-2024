@@ -234,7 +234,6 @@ sales-performance-dashboard-2024/
 ## Author
 
 **[Mahmoud Ahmed]**
-Technical Translator| Excel, Power Query & Dashboards
-[www.linkedin.com/in/mahmoud-hashem-b8598852
-
-](https://www.linkedin.com/) · [Email](mailto:M_translator@ymail.com)
+Technical Translator & Project Support | Data Analytics (Excel, Power Query)
+[www.linkedin.com](https://www.linkedin.com/www.linkedin.com/in/mahmoud-hashem-b8598852) ·
+[Email](mailto:m_translator@ymail.com))· 

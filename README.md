@@ -16,7 +16,7 @@ An interactive **Excel dashboard** that analyzes 2024 sales across five Egyptian
 ---
 
 ## Dashboard Visuals
-<img width="1305" height="474" alt="image" src="https://github.com/user-attachments/assets/32caccd8-f5b3-4da5-a5cc-d11ca9ea938b" />
+<img width="1334" height="473" alt="image" src="https://github.com/user-attachments/assets/909661a7-2e7a-4f40-8167-cc8ee40099d0">
 
 | Visual | Chart type | Fields |
 |--------|-----------|--------|
